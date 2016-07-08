@@ -16,4 +16,3 @@ Steps to use:
   git remote add remote <platform-git-url>
   git push -u platform master
   ```
-4. Have fun!
